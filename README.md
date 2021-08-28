@@ -1,6 +1,6 @@
-### Hi there, I'm Jhonrex - aka [oJhonrex][website] 👋
-
+# Hi there, I'm Jhonrex <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 [![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
+#
 
 ## I'm a Student, Friend, and Developer.
 
@@ -35,9 +35,16 @@
 <br />
 <br />
 
----
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
 
-  <img align="left" alt="Jhonrex18's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jhonrex18&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<br />
+
+---
+<br />
+
+![Yec's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonrex18&count_private=true&show_icons=true&hide_border=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
