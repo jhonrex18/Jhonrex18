@@ -25,7 +25,7 @@
 <img align="left" alt="Tailwind" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-4.svg"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
+<img align="left" alt="PHP" width="26px" height="26px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img align="left" alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
