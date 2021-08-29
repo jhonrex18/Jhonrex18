@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="oJhonrex.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="oJhonrex | Facebook" width="22px" src="https://img.icons8.com/material-rounded/24/000000/facebook.png" />][facebook]
-[<img align="left" alt="oJhonrex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="oJhonrex.com" width="30px" src="https://img.icons8.com/ios/2x/domain.png" />][website]
+[<img align="left" alt="oJhonrex | Facebook" width="30px" src="https://img.icons8.com/ios-filled/2x/facebook.png" />][facebook]
+[<img align="left" alt="oJhonrex | Instagram" width="30px" src="https://img.icons8.com/metro/2x/instagram-new.png" />][instagram]
 
 <br />
 
