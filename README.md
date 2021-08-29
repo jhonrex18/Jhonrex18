@@ -1,7 +1,6 @@
 # Hi there, I'm Jhonrex <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 [![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
 #
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student%2C;I'm+a+Friend;and+Aspiring+Developer.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
@@ -9,13 +8,17 @@
 
 ### Connect with me:
 
+<div align="left">
+
 [<img align="left" alt="oJhonrex.com" width="30px" src="https://img.icons8.com/ios/2x/domain.png" />][website]
 [<img align="left" alt="oJhonrex | Facebook" width="30px" src="https://img.icons8.com/ios-filled/2x/facebook.png" />][facebook]
 [<img align="left" alt="oJhonrex | Instagram" width="30px" src="https://img.icons8.com/metro/2x/instagram-new.png" />][instagram]
-
+</div>
+<br />
 <br />
 
 ### Languages and Tools:
+<div align="left">
 
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
@@ -33,10 +36,7 @@
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-
-
+</div>
 <div align="left">
 
 #### Profile Visits : 
