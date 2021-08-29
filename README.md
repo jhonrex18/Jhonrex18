@@ -47,14 +47,14 @@
 
 ---
 <br />
-
 <div align="center">
-
-![jhonrex18's Stats](https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![jhonrex18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonrex18&theme=radical&hide_border=true)
-![jhonrex18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonrex18&theme=radical&hide_border=true" />
 </div>
+<div align="center">
+<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 
 
 [website]: https://ojhonrex.ml
