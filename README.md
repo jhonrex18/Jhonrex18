@@ -1,4 +1,4 @@
-# Hi there, I'm Jhonrex <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
+# Hi, I'm Jhonrex Ortiz <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 [![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
 #
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student%2C;I'm+a+Friend;and+Aspiring+Developer.)](https://git.io/typing-svg)
@@ -26,16 +26,16 @@
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)
-<img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+![SASS](https://img.icons8.com/color/30/sass.png)
 <img alt="Tailwind" width="30px" height="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"/>
 ![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)
-<img alt="PHP" width="30px" height="30px" src="https://camo.githubusercontent.com/b71df4fcf19980b56b49c963638df23b5d1d2b9e9e487548649651f2f3e1d603/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667"/>
+<img alt="PHP" width="30px" height="30px" src="https://img.icons8.com/offices/2x/php-logo.png"/>
 ![MyQSL](https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
-<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Console](https://img.icons8.com/color/30/console.png)
 </div>
 <div align="left">
 
