@@ -41,12 +41,8 @@
 
 #### Profile Visits : 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
-
+#
 </div>
-<br />
-
----
-<br />
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonrex18&theme=radical&hide_border=true" />
