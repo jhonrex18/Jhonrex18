@@ -1,7 +1,8 @@
 # Hi there, I'm Jhonrex <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 [![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
+#
 
-## I'm a Student, Friend, and Developer.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student%2C;I'm+a+Friend;and+Aspiring+Developer.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn, learn and learn
@@ -16,26 +17,26 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Tailwind" width="26px" height="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/bootstrap-4.svg"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" height="26px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-<img align="left" alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/ios-filled/50/000000/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)
+<img alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Tailwind" width="30px" height="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"/>
+![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)
+<img alt="PHP" width="30px" height="30px" src="https://camo.githubusercontent.com/b71df4fcf19980b56b49c963638df23b5d1d2b9e9e487548649651f2f3e1d603/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667"/>
+![MyQSL](https://img.icons8.com/fluency/48/4a90e2/mysql-logo.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 
-#
-#### Profile Visits:
+#### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
 <br />
 
