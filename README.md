@@ -36,16 +36,25 @@
 <br />
 <br />
 
-#### Profile Visits 
+
+<div align="left">
+
+#### Profile Visits : 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
+
+</div>
 <br />
 
 ---
 <br />
 
-![Yec's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonrex18&count_private=true&show_icons=true&hide_border=true&theme=radical)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&langs_count=8&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![jhonrex18's Stats](https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![jhonrex18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonrex18&theme=radical&hide_border=true)
+![jhonrex18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 
 [website]: https://ojhonrex.ml
