@@ -34,7 +34,6 @@
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![NPM](https://img.icons8.com/color/30/npm.png)
 ![Console](https://img.icons8.com/color/30/console.png)
 </div>
 <div align="left">
