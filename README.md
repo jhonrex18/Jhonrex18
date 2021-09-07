@@ -4,7 +4,7 @@
 
 #
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student;and+Aspiring+Developer.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=Hi!+I'm+Jhonrex+Ortiz;I'm+a+Student;and+Aspiring+Developer.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn, learn and learn
