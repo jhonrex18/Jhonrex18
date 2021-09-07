@@ -57,8 +57,7 @@
 </div>
 <div align="center">
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true" />
-</div>
-<img width="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonrex18&theme=radical&hide_border=true&layuout=compact" />
+<img width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonrex18&theme=radical&hide_border=true&layuout=compact" />
 </div>
 
 [website]: https://ojhonrex.ml
