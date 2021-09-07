@@ -1,7 +1,10 @@
 # Hi, I'm Jhonrex Ortiz <img alt="gif" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
+
 [![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
+
 #
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student%2C;I'm+a+Friend;and+Aspiring+Developer.)](https://git.io/typing-svg)
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=I'm+a+Student;and+Aspiring+Developer.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Learn, learn and learn
@@ -13,11 +16,13 @@
 [<img align="left" alt="oJhonrex.com" width="30px" src="https://img.icons8.com/ios/2x/domain.png" />][website]
 [<img align="left" alt="oJhonrex | Facebook" width="30px" src="https://img.icons8.com/ios-filled/2x/facebook.png" />][facebook]
 [<img align="left" alt="oJhonrex | Instagram" width="30px" src="https://img.icons8.com/metro/2x/instagram-new.png" />][instagram]
+
 </div>
 <br />
 <br />
 
 ### Languages and Tools:
+
 <div align="left">
 
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
@@ -35,12 +40,16 @@
 ![Git](https://img.icons8.com/color/30/git.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![Console](https://img.icons8.com/color/30/console.png)
+
 </div>
 <div align="left">
 
-#### Profile Visits : 
+#### Profile Visits :
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
+
 #
+
 </div>
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true" />
@@ -49,8 +58,8 @@
 <div align="center">
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true" />
 </div>
-
-
+<img width="700" src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonrex18&theme=radical&hide_border=true&layuout=compact" />
+</div>
 
 [website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
