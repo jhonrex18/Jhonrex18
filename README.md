@@ -58,13 +58,6 @@
 <div align="center">
 </div>
 <!--START_SECTION:waka-->
-```text
-JavaScript       7 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   43.08 % 
-Blade Template   5 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.64 % 
-CSS              1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-PHP              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-```
 <!--END_SECTION:waka-->
 
 [website]: https://ojhonrex.ml
