@@ -57,8 +57,6 @@
 </div>
 <div align="center">
 </div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
