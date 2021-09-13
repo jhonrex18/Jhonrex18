@@ -59,14 +59,21 @@
 </div>
 <!--START_SECTION:waka-->
 ```text
-Blade Template   5 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
-JSX              5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
-JavaScript       4 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 % 
-CSS              2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-JSON             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+<br>
+Blade Template 5 hrs 35 mins ██████▓░░░░░░░░░░░░░░░░░░ 27.13 %
+<br>
+JSX 5 hrs 18 mins ██████▒░░░░░░░░░░░░░░░░░░ 25.74 %
+<br>
+JavaScript 4 hrs 27 mins █████▒░░░░░░░░░░░░░░░░░░░ 21.66 %
+<br>
+CSS 2 hrs 41 mins ███▒░░░░░░░░░░░░░░░░░░░░░ 13.09 %
+<br>
+JSON 34 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.77 %
+
 ```
 <!--END_SECTION:waka-->
 
 [website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
 [facebook]: https://fb.com/jhonrex1014
+```
