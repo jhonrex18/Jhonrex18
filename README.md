@@ -48,32 +48,19 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
 
-#
+#### Wakatime Profile : https://wakatime.com/@jhonrex18
 
 </div>
+
+#
+
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jhonrex18&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonrex18&theme=radical&hide_border=true&count_private=true" />
 </div>
 <div align="center">
 </div>
-<!--START_SECTION:waka-->
-```text
-<br>
-Blade Template 5 hrs 35 mins ██████▓░░░░░░░░░░░░░░░░░░ 27.13 %
-<br>
-JSX 5 hrs 18 mins ██████▒░░░░░░░░░░░░░░░░░░ 25.74 %
-<br>
-JavaScript 4 hrs 27 mins █████▒░░░░░░░░░░░░░░░░░░░ 21.66 %
-<br>
-CSS 2 hrs 41 mins ███▒░░░░░░░░░░░░░░░░░░░░░ 13.09 %
-<br>
-JSON 34 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░ 02.77 %
-
-```
-<!--END_SECTION:waka-->
 
 [website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
 [facebook]: https://fb.com/jhonrex1014
-```
