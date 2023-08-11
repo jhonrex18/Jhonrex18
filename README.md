@@ -1,20 +1,15 @@
 # Hi, I'm Jhonrex Ortiz <img  alt="gif"  width="30px" height="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  />
 
-[![Website](https://img.shields.io/badge/OJHONREX.ML-ONLINE-brightgreen)](https://ojhonrex.ml)
-
-#
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=6087FF&size=26&lines=Hi!+I'm+Jhonrex+Ortiz;I'm+a+Student;and+Aspiring+Developer.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2021 Goals: Learn, learn and learn
+- 🥅 Life Goals: Learn, learn and learn
 
 ### Connect with me:
 
 <div  align="left">
-
-[<img align="left" alt="oJhonrex.com" width="30px" src="https://img.icons8.com/ios/2x/domain.png" />][website]
 
 [<img align="left" alt="oJhonrex | Facebook" width="30px" src="https://img.icons8.com/ios-filled/2x/facebook.png" />][facebook]
 
@@ -56,7 +51,7 @@
 
 #### Profile Visits :
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonrex18.jhonrex18)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhonrex18.visitor-badge)
 
 #### Wakatime Profile : https://wakatime.com/@jhonrex18
 
@@ -82,6 +77,5 @@
   <img alt="snake eating my contribution" src="https://github.com/jhonrex18/jhonrex18/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
-[website]: https://ojhonrex.ml
 [instagram]: https://instagram.com/jhonrex18
 [facebook]: https://fb.com/ojhonrex
