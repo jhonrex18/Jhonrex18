@@ -26,9 +26,5 @@
 
 </div>
 
-<div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/jhonrex18/jhonrex18/blob/output/github-contribution-grid-snake-dark.svg">
-</div>
-
 [instagram]: https://instagram.com/jhonrex18
 [facebook]: https://fb.com/ojhonrex
