@@ -23,7 +23,8 @@
 </div>
 
 <div  align="center">
-
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhonrex18&display_format=percent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 [instagram]: https://instagram.com/jhonrex18
