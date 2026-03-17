@@ -6,6 +6,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhonrex18.visitor-badge)
 
+#### Portfolio : https://portfolio.ojhonrex.workers.dev/
 #### Wakatime Profile : https://wakatime.com/@jhonrex18
 
 [![wakatime](https://wakatime.com/badge/user/34fd42ec-1448-43b6-9efd-d3fe46619358.svg)](https://wakatime.com/@34fd42ec-1448-43b6-9efd-d3fe46619358)
